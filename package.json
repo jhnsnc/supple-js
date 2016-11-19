@@ -1,0 +1,19 @@
+{
+  "name": "supple",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/supple.js",
+  "scripts": {
+    "build": "webpack -p --progress",
+    "watch": "webpack --watch --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnsnc/supple-js.git"
+  },
+  "author": "Chris Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhnsnc/supple-js/issues"
+  }
+}
